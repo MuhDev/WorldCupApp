@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Qatar World Cup 2023',
+      title: 'Qatar World Cup',
       theme: ThemeData(primarySwatch: Colors.blue, fontFamily: "Tajawal"),
       home: const Directionality(
         textDirection: TextDirection.rtl,
